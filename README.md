@@ -1,5 +1,5 @@
 ## Introduction
 
-## User Stories
+# User Stories
 
-## Tech Stack Used
+# Tech Stack Used
